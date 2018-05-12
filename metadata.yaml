@@ -1,0 +1,26 @@
+_repo: Elements-of-Foreign-Exchange--A-Foreign-Exchange-Primer_29364
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Escher, Franklin
+    birthdate: 1881
+    gutenberg_agent_id: '33874'
+    url: http://www.gutenberg.org/2009/agents/33874
+description: ''
+gutenberg_issued: '2009-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29364'
+  lccn: '20007740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foreign exchange'
+- !lcc 'HG'
+title: 'Elements of Foreign Exchange: A Foreign Exchange Primer'
+url: http://www.gutenberg.org/ebooks/29364
